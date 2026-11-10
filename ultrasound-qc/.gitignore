@@ -1,0 +1,13 @@
+node_modules/
+.venv/
+.runtime/
+dist/
+build/
+web/
+test-results/
+playwright-report/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env*
+.superpowers/

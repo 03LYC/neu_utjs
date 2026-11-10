@@ -1,0 +1,18 @@
+# Local report data, demonstration materials, and camera captures
+/0614报告截图/
+/专家演示材料/
+/camera/
+/*.lnk
+
+# Local PaddleOCR inventories and generated artifacts
+/PaddleOCR-main/PaddleOCR-main/PROJECT_FILES.md
+/PaddleOCR-main/PaddleOCR-main/file_guide/
+/PaddleOCR-main/PaddleOCR-main/output/
+/PaddleOCR-main/PaddleOCR-main/inference_results/
+
+# Local credentials and configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
